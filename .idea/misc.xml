@@ -4,8 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Jaspreet/Desktop/Proquiz/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
-        <entry key="..\:/cu/Sem -4/project/Proquiz/app/src/main/res/layout/activity_main.xml" value="0.16" />
-        <entry key="..\:/cu/Sem -4/project/Proquiz/app/src/main/res/layout/question_viewpager.xml" value="0.22826086956521738" />
+        <entry key="..\:/cu/Sem -4/project/Proquiz/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1155" />
+        <entry key="..\:/cu/Sem -4/project/Proquiz/app/src/main/res/drawable/option_background.xml" value="0.253" />
+        <entry key="..\:/cu/Sem -4/project/Proquiz/app/src/main/res/layout/activity_main.xml" value="0.72" />
+        <entry key="..\:/cu/Sem -4/project/Proquiz/app/src/main/res/layout/launchscreen.xml" value="0.25" />
+        <entry key="..\:/cu/Sem -4/project/Proquiz/app/src/main/res/layout/question_viewpager.xml" value="0.264" />
       </map>
     </option>
   </component>
